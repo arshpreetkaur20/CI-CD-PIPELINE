@@ -21,8 +21,8 @@ public class Reverse {
         Reverse reverseObj = new Reverse();
         
         // Test cases
-        int num1 = 9876;
-        int num2 = -6789;
+        int num1 = 4567;
+        int num2 = -7654;
         
         System.out.println("Reverse of " + num1 + " is: " + reverseObj.reverse(num1));
         System.out.println("Reverse of " + num2 + " is: " + reverseObj.reverse(num2));
