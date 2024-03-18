@@ -35,6 +35,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="E:/College Material/6th SEMESTER/Applied DevOps/AD Project/CI-CD-PIPELINE/src"/>
-	<classpathentry kind="output" path="target/classes"/>
-</classpath>
+
+	
